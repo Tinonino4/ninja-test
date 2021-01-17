@@ -1,0 +1,5 @@
+io/swagger/api/UpdateUsersByIdApiControllerTest.class
+io/swagger/api/GetusersApiControllerTest.class
+io/swagger/api/GetusersByIdApiControllerTest.class
+io/swagger/api/DeleteUsersByIdApiControllerTest.class
+io/swagger/api/CreateUsersApiControllerTest.class
