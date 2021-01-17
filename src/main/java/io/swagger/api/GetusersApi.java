@@ -24,15 +24,15 @@ import java.util.List;
 @javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2021-01-15T17:30:41.911Z")
 
 @Api(value = "getusers", description = "the getusers API")
-@RequestMapping(value = "/users")
+//@RequestMapping(value = "/users")
 public interface GetusersApi {
 
     @ApiOperation(value = "", nickname = "getusersGet", notes = "Get all users", response = User.class, responseContainer = "List", tags={  })
     @ApiResponses(value = { 
         @ApiResponse(code = 200, message = "OK", response = User.class, responseContainer = "List") })
     @RequestMapping(value = "/getusers",
-        produces = { "application/json" }, 
-        consumes = { "application/json" },
+        produces = { "application/json" },
+//        consumes = { "application/json" },
         method = RequestMethod.GET)
     ResponseEntity<List<User>> getusersGet();
 

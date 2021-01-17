@@ -24,7 +24,7 @@ import java.util.List;
 @javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2021-01-15T17:30:41.911Z")
 
 @Api(value = "updateUsersById", description = "the updateUsersById API")
-@RequestMapping(value = "/users")
+//@RequestMapping(value = "/users")
 public interface UpdateUsersByIdApi {
 
     @ApiOperation(value = "", nickname = "updateUsersByIdUserIdPut", notes = "", response = User.class, tags={  })
@@ -34,7 +34,7 @@ public interface UpdateUsersByIdApi {
         @ApiResponse(code = 404, message = "User not found") })
     @RequestMapping(value = "/updateUsersById/{userId}",
         produces = { "application/json" }, 
-        consumes = { "application/json" },
+//        consumes = { "application/json" },
         method = RequestMethod.PUT)
     ResponseEntity<User> updateUsersByIdUserIdPut(@ApiParam(value = "",required=true) @PathVariable("userId") Integer userId,@ApiParam(value = "" ,required=true )  @Valid @RequestBody User user);
 

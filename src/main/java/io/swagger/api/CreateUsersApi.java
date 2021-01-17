@@ -24,7 +24,7 @@ import java.util.List;
 @javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2021-01-15T17:30:41.911Z")
 
 @Api(value = "createUsers", description = "the createUsers API")
-@RequestMapping(value = "/users")
+//@RequestMapping(value = "/users")
 public interface CreateUsersApi {
 
     @ApiOperation(value = "", nickname = "createUsersPost", notes = "", response = User.class, tags={  })
@@ -32,8 +32,8 @@ public interface CreateUsersApi {
         @ApiResponse(code = 201, message = "CREATED", response = User.class),
         @ApiResponse(code = 405, message = "Invalid input") })
     @RequestMapping(value = "/createUsers",
-        produces = { "application/json" }, 
-        consumes = { "application/json" },
+        produces = { "application/json" },
+//        consumes = { "application/json" },
         method = RequestMethod.POST)
     ResponseEntity<User> createUsersPost(@ApiParam(value = "" ,required=true )  @Valid @RequestBody User user);
 
