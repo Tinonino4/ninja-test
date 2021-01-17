@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: io.swagger.api.UpdateUsersByIdApiControllerTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.05 sec - in io.swagger.api.UpdateUsersByIdApiControllerTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.064 sec - in io.swagger.api.UpdateUsersByIdApiControllerTest
