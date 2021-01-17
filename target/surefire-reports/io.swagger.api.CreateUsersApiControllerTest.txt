@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: io.swagger.api.CreateUsersApiControllerTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.974 sec - in io.swagger.api.CreateUsersApiControllerTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.535 sec - in io.swagger.api.CreateUsersApiControllerTest
