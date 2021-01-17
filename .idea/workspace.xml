@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efdce50c-4dad-480f-ae78-d7c3d7ca3bc1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1n7CmYGb37qk7Prylur6feAcQM6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="io.swagger.api" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/sql" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Swagger2SpringBoot">
+    <configuration name="Swagger2SpringBoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.swagger.Swagger2SpringBoot" />
+      <module name="swagger-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.swagger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in swagger-spring" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="swagger-spring" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateUsersApiControllerTest.givenUser_whenSaveUser_thenReturnUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="swagger-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.swagger.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.swagger.api" />
+      <option name="MAIN_CLASS_NAME" value="io.swagger.api.CreateUsersApiControllerTest" />
+      <option name="METHOD_NAME" value="givenUser_whenSaveUser_thenReturnUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteUsersByIdApiControllerTest.givenidUser_whenDeleteUserById_thenUserDeleted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="swagger-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.swagger.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.swagger.api" />
+      <option name="MAIN_CLASS_NAME" value="io.swagger.api.DeleteUsersByIdApiControllerTest" />
+      <option name="METHOD_NAME" value="givenidUser_whenDeleteUserById_thenUserDeleted" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetusersApiControllerTest.whenFindAllUsers_thenReturnAllUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="swagger-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.swagger.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.swagger.api" />
+      <option name="MAIN_CLASS_NAME" value="io.swagger.api.GetusersApiControllerTest" />
+      <option name="METHOD_NAME" value="whenFindAllUsers_thenReturnAllUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateUsersByIdApiControllerTest.givenUser_whenUpdate_thenReturnUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="swagger-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.swagger.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.swagger.api" />
+      <option name="MAIN_CLASS_NAME" value="io.swagger.api.UpdateUsersByIdApiControllerTest" />
+      <option name="METHOD_NAME" value="givenUser_whenUpdate_thenReturnUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Swagger2SpringBoot" />
+        <item itemvalue="JUnit.UpdateUsersByIdApiControllerTest.givenUser_whenUpdate_thenReturnUser" />
+        <item itemvalue="JUnit.DeleteUsersByIdApiControllerTest.givenidUser_whenDeleteUserById_thenUserDeleted" />
+        <item itemvalue="JUnit.GetusersApiControllerTest.whenFindAllUsers_thenReturnAllUsers" />
+        <item itemvalue="JUnit.CreateUsersApiControllerTest.givenUser_whenSaveUser_thenReturnUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../api-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../learning-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-ddd-example-02-Routing_system_and_akka_http_testkit" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-examples" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-http-api" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efdce50c-4dad-480f-ae78-d7c3d7ca3bc1" name="Default Changelist" comment="" />
+      <created>1610731901913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610731901913</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="516" y="44" width="945" height="891" key="#All_in_swagger-spring" timestamp="1610816534795">
+      <screen x="67" y="27" width="1853" height="928" />
+    </state>
+    <state x="516" y="44" width="945" height="891" key="#All_in_swagger-spring/67.27.1853.928/1920.0.1920.975@67.27.1853.928" timestamp="1610816534795" />
+    <state x="588" y="149" width="800" height="682" key="#Auto_Import" timestamp="1610820213072">
+      <screen x="67" y="27" width="1853" height="928" />
+    </state>
+    <state x="588" y="149" width="800" height="682" key="#Auto_Import/67.27.1853.928/1920.0.1920.975@67.27.1853.928" timestamp="1610820213072" />
+    <state x="451" y="145" width="1097" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610816552000">
+      <screen x="67" y="27" width="1853" height="928" />
+    </state>
+    <state x="451" y="145" width="1097" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.928/1920.0.1920.975@67.27.1853.928" timestamp="1610816552000" />
+    <state x="801" y="191" width="374" height="597" key="#com.intellij.ide.util.MemberChooser" timestamp="1610802526734">
+      <screen x="67" y="27" width="1853" height="928" />
+    </state>
+    <state x="801" y="191" width="374" height="597" key="#com.intellij.ide.util.MemberChooser/67.27.1853.928/1920.0.1912.964@67.27.1853.928" timestamp="1610802526734" />
+    <state x="721" y="259" width="524" height="461" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1610816613317">
+      <screen x="67" y="27" width="1853" height="928" />
+    </state>
+    <state x="721" y="259" width="524" height="461" key="#com.intellij.ide.util.PackageChooserDialog/67.27.1853.928/1920.0.1920.975@67.27.1853.928" timestamp="1610816613317" />
+    <state x="2084" y="112" width="1572" height="740" key="#xdebugger.evaluate" timestamp="1610875767056">
+      <screen x="1920" y="0" width="1920" height="975" />
+    </state>
+    <state x="2634" y="111" key="#xdebugger.evaluate/67.27.1853.928/1920.0.1912.964@1920.0.1912.964" timestamp="1610733388287" />
+    <state x="225" y="134" width="1516" height="740" key="#xdebugger.evaluate/67.27.1853.928/1920.0.1912.964@67.27.1853.928" timestamp="1610796504224" />
+    <state x="2084" y="112" key="#xdebugger.evaluate/67.27.1853.928/1920.0.1920.975@1920.0.1920.975" timestamp="1610875767056" />
+    <state x="225" y="134" width="1572" height="740" key="#xdebugger.evaluate/67.27.1853.928/1920.0.1920.975@67.27.1853.928" timestamp="1610827128454" />
+    <state width="489" height="520" key="DebuggerActiveHint" timestamp="1610827100232">
+      <screen x="67" y="27" width="1853" height="928" />
+    </state>
+    <state width="504" height="540" key="DebuggerActiveHint/67.27.1853.928/1920.0.1912.964@1920.0.1912.964" timestamp="1610733343180" />
+    <state width="489" height="520" key="DebuggerActiveHint/67.27.1853.928/1920.0.1912.964@67.27.1853.928" timestamp="1610802079551" />
+    <state width="489" height="520" key="DebuggerActiveHint/67.27.1853.928/1920.0.1920.975@67.27.1853.928" timestamp="1610827100232" />
+    <state width="1856" height="295" key="GridCell.Tab.0.bottom" timestamp="1610877053754">
+      <screen x="1920" y="0" width="1920" height="975" />
+    </state>
+    <state width="1848" height="152" key="GridCell.Tab.0.bottom/67.27.1853.928/1920.0.1912.964@1920.0.1912.964" timestamp="1610733763081" />
+    <state width="1789" height="275" key="GridCell.Tab.0.bottom/67.27.1853.928/1920.0.1912.964@67.27.1853.928" timestamp="1610813853718" />
+    <state width="1856" height="295" key="GridCell.Tab.0.bottom/67.27.1853.928/1920.0.1920.975@1920.0.1920.975" timestamp="1610877053754" />
+    <state width="1789" height="228" key="GridCell.Tab.0.bottom/67.27.1853.928/1920.0.1920.975@67.27.1853.928" timestamp="1610834484255" />
+    <state width="1856" height="295" key="GridCell.Tab.0.center" timestamp="1610877053754">
+      <screen x="1920" y="0" width="1920" height="975" />
+    </state>
+    <state width="1848" height="152" key="GridCell.Tab.0.center/67.27.1853.928/1920.0.1912.964@1920.0.1912.964" timestamp="1610733763078" />
+    <state width="1789" height="275" key="GridCell.Tab.0.center/67.27.1853.928/1920.0.1912.964@67.27.1853.928" timestamp="1610813853718" />
+    <state width="1856" height="295" key="GridCell.Tab.0.center/67.27.1853.928/1920.0.1920.975@1920.0.1920.975" timestamp="1610877053754" />
+    <state width="1789" height="228" key="GridCell.Tab.0.center/67.27.1853.928/1920.0.1920.975@67.27.1853.928" timestamp="1610834484255" />
+    <state width="1856" height="295" key="GridCell.Tab.0.left" timestamp="1610877053754">
+      <screen x="1920" y="0" width="1920" height="975" />
+    </state>
+    <state width="1848" height="152" key="GridCell.Tab.0.left/67.27.1853.928/1920.0.1912.964@1920.0.1912.964" timestamp="1610733763077" />
+    <state width="1789" height="275" key="GridCell.Tab.0.left/67.27.1853.928/1920.0.1912.964@67.27.1853.928" timestamp="1610813853717" />
+    <state width="1856" height="295" key="GridCell.Tab.0.left/67.27.1853.928/1920.0.1920.975@1920.0.1920.975" timestamp="1610877053754" />
+    <state width="1789" height="228" key="GridCell.Tab.0.left/67.27.1853.928/1920.0.1920.975@67.27.1853.928" timestamp="1610834484255" />
+    <state width="1856" height="295" key="GridCell.Tab.0.right" timestamp="1610877053754">
+      <screen x="1920" y="0" width="1920" height="975" />
+    </state>
+    <state width="1848" height="152" key="GridCell.Tab.0.right/67.27.1853.928/1920.0.1912.964@1920.0.1912.964" timestamp="1610733763078" />
+    <state width="1789" height="275" key="GridCell.Tab.0.right/67.27.1853.928/1920.0.1912.964@67.27.1853.928" timestamp="1610813853718" />
+    <state width="1856" height="295" key="GridCell.Tab.0.right/67.27.1853.928/1920.0.1920.975@1920.0.1920.975" timestamp="1610877053754" />
+    <state width="1789" height="228" key="GridCell.Tab.0.right/67.27.1853.928/1920.0.1920.975@67.27.1853.928" timestamp="1610834484255" />
+    <state width="1856" height="295" key="GridCell.Tab.1.bottom" timestamp="1610877053447">
+      <screen x="1920" y="0" width="1920" height="975" />
+    </state>
+    <state width="1848" height="152" key="GridCell.Tab.1.bottom/67.27.1853.928/1920.0.1912.964@1920.0.1912.964" timestamp="1610733749434" />
+    <state width="1789" height="275" key="GridCell.Tab.1.bottom/67.27.1853.928/1920.0.1912.964@67.27.1853.928" timestamp="1610813853362" />
+    <state width="1856" height="295" key="GridCell.Tab.1.bottom/67.27.1853.928/1920.0.1920.975@1920.0.1920.975" timestamp="1610877053447" />
+    <state width="1789" height="277" key="GridCell.Tab.1.bottom/67.27.1853.928/1920.0.1920.975@67.27.1853.928" timestamp="1610834484250" />
+    <state width="1856" height="295" key="GridCell.Tab.1.center" timestamp="1610877053447">
+      <screen x="1920" y="0" width="1920" height="975" />
+    </state>
+    <state width="1848" height="152" key="GridCell.Tab.1.center/67.27.1853.928/1920.0.1912.964@1920.0.1912.964" timestamp="1610733749434" />
+    <state width="1789" height="275" key="GridCell.Tab.1.center/67.27.1853.928/1920.0.1912.964@67.27.1853.928" timestamp="1610813853360" />
+    <state width="1856" height="295" key="GridCell.Tab.1.center/67.27.1853.928/1920.0.1920.975@1920.0.1920.975" timestamp="1610877053447" />
+    <state width="1789" height="277" key="GridCell.Tab.1.center/67.27.1853.928/1920.0.1920.975@67.27.1853.928" timestamp="1610834484250" />
+    <state width="1856" height="295" key="GridCell.Tab.1.left" timestamp="1610877053447">
+      <screen x="1920" y="0" width="1920" height="975" />
+    </state>
+    <state width="1848" height="152" key="GridCell.Tab.1.left/67.27.1853.928/1920.0.1912.964@1920.0.1912.964" timestamp="1610733749434" />
+    <state width="1789" height="275" key="GridCell.Tab.1.left/67.27.1853.928/1920.0.1912.964@67.27.1853.928" timestamp="1610813853360" />
+    <state width="1856" height="295" key="GridCell.Tab.1.left/67.27.1853.928/1920.0.1920.975@1920.0.1920.975" timestamp="1610877053447" />
+    <state width="1789" height="277" key="GridCell.Tab.1.left/67.27.1853.928/1920.0.1920.975@67.27.1853.928" timestamp="1610834484250" />
+    <state width="1856" height="295" key="GridCell.Tab.1.right" timestamp="1610877053447">
+      <screen x="1920" y="0" width="1920" height="975" />
+    </state>
+    <state width="1848" height="152" key="GridCell.Tab.1.right/67.27.1853.928/1920.0.1912.964@1920.0.1912.964" timestamp="1610733749434" />
+    <state width="1789" height="275" key="GridCell.Tab.1.right/67.27.1853.928/1920.0.1912.964@67.27.1853.928" timestamp="1610813853360" />
+    <state width="1856" height="295" key="GridCell.Tab.1.right/67.27.1853.928/1920.0.1920.975@1920.0.1920.975" timestamp="1610877053447" />
+    <state width="1789" height="277" key="GridCell.Tab.1.right/67.27.1853.928/1920.0.1920.975@67.27.1853.928" timestamp="1610834484250" />
+    <state x="526" y="145" width="924" height="689" key="Maven.ArtifactSearchDialog" timestamp="1610825093361">
+      <screen x="67" y="27" width="1853" height="928" />
+    </state>
+    <state x="526" y="145" width="924" height="689" key="Maven.ArtifactSearchDialog/67.27.1853.928/1920.0.1920.975@67.27.1853.928" timestamp="1610825093361" />
+    <state x="492" y="81" width="1024" height="850" key="SettingsEditor" timestamp="1610816524236">
+      <screen x="67" y="27" width="1853" height="928" />
+    </state>
+    <state x="2359" y="56" width="1024" height="850" key="SettingsEditor/67.27.1853.928/1920.0.1912.964@1920.0.1912.964" timestamp="1610732059618" />
+    <state x="492" y="81" key="SettingsEditor/67.27.1853.928/1920.0.1920.975@67.27.1853.928" timestamp="1610816524236" />
+    <state width="926" height="465" key="XDebugger.FullValuePopup" timestamp="1610796468601">
+      <screen x="67" y="27" width="1853" height="928" />
+    </state>
+    <state width="926" height="465" key="XDebugger.FullValuePopup/67.27.1853.928/1920.0.1912.964@67.27.1853.928" timestamp="1610796468601" />
+    <state x="2629" y="75" width="451" height="747" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1610875467673">
+      <screen x="1920" y="0" width="1920" height="975" />
+    </state>
+    <state x="2629" y="75" width="451" height="747" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1853.928/1920.0.1920.975@1920.0.1920.975" timestamp="1610875467673" />
+    <state x="751" y="98" width="474" height="783" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1853.928/1920.0.1920.975@67.27.1853.928" timestamp="1610825899183" />
+    <state x="625" y="113" width="737" height="754" key="find.popup" timestamp="1610795458013">
+      <screen x="67" y="27" width="1853" height="928" />
+    </state>
+    <state x="625" y="113" width="737" height="754" key="find.popup/67.27.1853.928/1920.0.1912.964@67.27.1853.928" timestamp="1610795458013" />
+    <state x="667" y="222" width="672" height="664" key="search.everywhere.popup" timestamp="1610815639463">
+      <screen x="67" y="27" width="1853" height="928" />
+    </state>
+    <state x="2539" y="203" width="672" height="689" key="search.everywhere.popup/67.27.1853.928/1920.0.1912.964@1920.0.1912.964" timestamp="1610733995952" />
+    <state x="667" y="222" width="672" height="664" key="search.everywhere.popup/67.27.1853.928/1920.0.1912.964@67.27.1853.928" timestamp="1610796705872" />
+    <state x="667" y="222" width="672" height="664" key="search.everywhere.popup/67.27.1853.928/1920.0.1920.975@67.27.1853.928" timestamp="1610815639463" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/io/swagger/api/UpdateUsersByIdApiController.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/io/swagger/api/GetusersByIdApiControllerTest.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/io/swagger/api/GetusersByIdApiControllerTest.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/io/swagger/api/GetusersByIdApiControllerTest.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/io/swagger/api/GetusersByIdApiController.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/io/swagger/api/GetusersApiControllerTest.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/io/swagger/api/DeleteUsersByIdApiControllerTest.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
