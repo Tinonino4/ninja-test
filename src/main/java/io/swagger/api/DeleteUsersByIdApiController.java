@@ -48,14 +48,14 @@ public class DeleteUsersByIdApiController implements DeleteUsersByIdApi {
             try {
                 // Invalid id
                 if (userId <= 0)
-                    return new ResponseEntity("Invalid user id",HttpStatus.BAD_REQUEST);
+                    return new ResponseEntity(HttpStatus.BAD_REQUEST);
                 User userFound = userService.getUserById(userId);
                 //User not found
                 if (userFound == null)
-                    return new ResponseEntity("User not found",HttpStatus.NOT_FOUND);
+                    return new ResponseEntity(HttpStatus.NOT_FOUND);
                 // Delete User
                  userService.delete(userId);
-                return new ResponseEntity("OK",HttpStatus.OK);
+                return new ResponseEntity(HttpStatus.OK);
             } catch (Exception e) {
                 log.error("Couldn't serialize response for content type application/json", e);
                 return new ResponseEntity(HttpStatus.INTERNAL_SERVER_ERROR);

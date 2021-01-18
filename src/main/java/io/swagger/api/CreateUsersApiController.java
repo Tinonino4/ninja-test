@@ -58,10 +58,10 @@ public class CreateUsersApiController implements CreateUsersApi {
                 return new ResponseEntity<User>(user,HttpStatus.CREATED);
             } catch (Exception e) {
                 log.error("Couldn't serialize response for content type application/json", e);
-                return new ResponseEntity("Invalid input",HttpStatus.METHOD_NOT_ALLOWED);
+                return new ResponseEntity<User>(HttpStatus.METHOD_NOT_ALLOWED);
             }
         }
-        return new ResponseEntity("Invalid input", HttpStatus.METHOD_NOT_ALLOWED);
+        return new ResponseEntity<User>( HttpStatus.METHOD_NOT_ALLOWED);
     }
 
 }
