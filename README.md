@@ -37,4 +37,4 @@ It includes a In-Memory database H2 with this by default data example:
   }
 ]
 
-The format of BirthDate field is "yyyy-MM-dd".
+BirthDate field format is "yyyy-MM-dd".
