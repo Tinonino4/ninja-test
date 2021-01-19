@@ -54,12 +54,14 @@ public class UpdateUsersByIdApiController implements UpdateUsersByIdApi {
                 // Invalid id
                 if (userId <= 0)
                     return new ResponseEntity<User>(HttpStatus.BAD_REQUEST);
+                // search user
                 User userFound = userService.getUserById(userId);
-                //User not found
+                //If user not found
                 if (userFound == null)
                     return new ResponseEntity<User>(HttpStatus.NOT_FOUND);
-                // User found
+                // If user found
                 user.setId(userId);
+                // Update user
                 User userSaved= userService.saveUser(user);
                 return new ResponseEntity<User>(user,HttpStatus.OK);
             } catch (Exception e) {

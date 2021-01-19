@@ -25,5 +25,5 @@ CREATE TABLE user (
 );
 
 INSERT INTO user (name, email, birthdate, address) VALUES
-  ('Juan', 'Juan@test.com', null, 1),
-  ('Pepe', 'Pepe@test.com', null, 2);
+  ('Juan', 'Juan@test.com', '1993-07-12', 1),
+  ('Pepe', 'Pepe@test.com', '1988-06-03', 2);
