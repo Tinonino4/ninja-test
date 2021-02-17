@@ -48,6 +48,7 @@ public class CreateUsersApiController implements CreateUsersApi {
         this.request = request;
     }
 
+    // Comentario de prueba
     public ResponseEntity<User> createUsersPost(@ApiParam(value = "" ,required=true )  @Valid @RequestBody User user) {
         String accept = request.getHeader("Accept");
         if (accept != null && accept.contains("application/json")) {
